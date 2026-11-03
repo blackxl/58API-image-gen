@@ -1,0 +1,6 @@
+{
+  "meta": {
+    "title": "58API-Image-Gen",
+    "description": "一个插件调用 58API 全部生图模型，支持 gpt-image、香蕉、Grok 等多种生图模型。适配 Codex、Claude、ZCode、DSH 等多种客户端！"
+  }
+}

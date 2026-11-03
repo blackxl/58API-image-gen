@@ -1,0 +1,24 @@
+{
+  "name": "58api-image-gen",
+  "displayName": "58API-Image-Gen",
+  "version": "3.1.3",
+  "description": "一个插件调用 58API 全部生图模型，支持 gpt-image、香蕉、Grok 等多种生图模型。适配 Codex、Claude、ZCode、DSH 等多种客户端！",
+  "icon": "./assets/plugin-logo.png",
+  "author": {
+    "name": "58api.net",
+    "url": "https://58api.net/"
+  },
+  "homepage": "https://58api.net/",
+  "repository": "https://github.com/blackxl/58API-image-gen",
+  "keywords": [
+    "58api",
+    "image-generation",
+    "gpt-image-2",
+    "nano-banana",
+    "gemini",
+    "grok",
+    "seedream",
+    "midjourney",
+    "image-edit"
+  ]
+}

@@ -1,0 +1,20 @@
+{
+  "name": "58api-plugins",
+  "interface": {
+    "displayName": "58API-Image-Gen"
+  },
+  "plugins": [
+    {
+      "name": "58api-image-gen",
+      "source": {
+        "source": "local",
+        "path": "./plugins/58api-image-gen"
+      },
+      "policy": {
+        "installation": "AVAILABLE",
+        "authentication": "ON_INSTALL"
+      },
+      "category": "Productivity"
+    }
+  ]
+}

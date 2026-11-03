@@ -1,0 +1,23 @@
+{
+  "name": "58api-plugins",
+  "owner": {
+    "name": "58api.net",
+    "url": "https://58api.net/"
+  },
+  "description": "58API 生图插件市场（Claude Code / ZCode）",
+  "plugins": [
+    {
+      "name": "58api-image-gen",
+      "displayName": "58API-Image-Gen",
+      "source": "./plugins/58api-image-gen",
+      "description": "一个插件调用 58API 全部生图模型，支持 gpt-image、香蕉、Grok 等多种生图模型。适配 Codex、Claude、ZCode、DSH 等多种客户端！",
+      "icon": "https://raw.githubusercontent.com/blackxl/58API-image-gen/main/plugins/58api-image-gen/assets/plugin-logo.png",
+      "homepage": "https://58api.net/",
+      "author": {
+        "name": "58api.net",
+        "url": "https://58api.net/"
+      },
+      "category": "productivity"
+    }
+  ]
+}

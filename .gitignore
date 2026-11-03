@@ -1,0 +1,26 @@
+# Local secrets and machine-specific config
+.env
+.env.*
+*.local
+*.key
+*.pem
+
+# Generated output and logs
+output/
+logs/
+*.log
+tmp/
+temp/
+*.tmp
+*.bak
+*.orig
+
+# Plugin local artifacts
+58api-images/
+.58api-image-gen-jobs/
+
+# OS/editor noise
+.DS_Store
+Thumbs.db
+.idea/
+.vscode/
